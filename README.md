@@ -1,23 +1,5 @@
-# RGMQL
+# RGMQLScalaLibs
 
-This package works with java 1.8
+This package conatins the Scala Libraries used from RGMQL package
 
-## Settings OSX
-
-edit .bash_profile, add environment variable
-
-export JAVA_HOME="<java_path>"
-
-export PATH=$PATH
-
-edit /etc/paths add these
-
-$JAVA_HOME/bin
-
-
-## Settings Windows
-
-create environment variable JAVA_HOME 
-
-
-
+This package includes only the jar file
