@@ -1,4 +1,4 @@
-# RGMQLScalaLibs
+# RGMQLlib
 
 This package conatins the Scala Libraries used from RGMQL package
 
