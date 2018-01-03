@@ -1,6 +1,6 @@
 Package: RGMQLlib
 Type: Package
-Title: RGMQLScalaLib, java libraries to run GMQL scala API
+Title: RGMQLlib, java libraries to run GMQL scala API
 Version: 0.99.0
 Author: Simone Pallotta, Marco Masseroli
 Maintainer: Simone Pallotta <simonepallotta@hotmail.com>
