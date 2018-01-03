@@ -1,4 +1,4 @@
-Package: RGMQLScalaLib
+Package: RGMQLlib
 Type: Package
 Title: RGMQLScalaLib, java libraries to run GMQL scala API
 Version: 0.99.0
