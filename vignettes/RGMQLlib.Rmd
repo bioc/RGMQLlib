@@ -4,23 +4,23 @@ author: "Simone Pallotta"
 date: "`r Sys.Date()`"
 output: BiocStyle::pdf_document
 vignette: >
-  %\VignetteIndexEntry{RGMQLlib: scala Libraries to support GMQL}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
-  %\VignettePackage{RGMQLlib}
-  %\VignetteDepends{RGMQLlib}
+    %\VignetteIndexEntry{RGMQLlib: scala Libraries to support GMQL}
+    %\VignetteEngine{knitr::rmarkdown}
+    %\VignetteEncoding{UTF-8}
+    %\VignettePackage{RGMQLlib}
+    %\VignetteDepends{RGMQLlib}
 ---
 
 # Introduction
 
 RGMQLlib is a data package containing compiled libraries in jar format
 used by RGMQL package to
- 
+
 # Contents of the package
 GMQL scala API
 
-They are available in jar format within the extdata directory of this package and 
-can be located through r 
+They are available in jar format within the extdata directory of this package 
+and can be located through r 
 ```
 system.file('extdata', 'java', package='RGMQLlib')
 ```
