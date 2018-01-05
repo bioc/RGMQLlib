@@ -4,7 +4,9 @@ Title: RGMQLlib, java libraries to run GMQL scala API
 Version: 0.99.3
 Author: Simone Pallotta, Marco Masseroli
 Maintainer: Simone Pallotta <simonepallotta@hotmail.com>
-Description: A package that contains scala libraries to call GMQL from R
+Description: A package that contains scala libraries to call GMQL from R 
+    used by RGMQL package. It contains a scalable data management engine 
+    written in Scala programming language.
 License: Artistic-2.0
 URL: http://www.bioinformatics.deib.polimi.it/genomic_computing/GMQL/
 Encoding: UTF-8
