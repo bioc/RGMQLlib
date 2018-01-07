@@ -10,7 +10,7 @@
 RGMQLlib
 }
 \details{
-Is a data package containing compiled libraries in jar format used to
+This is a data package containing compiled libraries in jar format used to
 invoke GMQL scala API
 
 This library is used in the package RGQML
