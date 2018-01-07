@@ -14,10 +14,10 @@ vignette: >
 # Introduction
 
 RGMQLlib is a data package containing compiled libraries in jar format
-used by RGMQL package to
+used by the RGMQL package 
 
 # Contents of the package
-GMQL scala API
+GMQL Scala API
 
 They are available in jar format within the extdata directory of this package 
 and can be located through r 
