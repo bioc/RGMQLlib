@@ -19,5 +19,5 @@ Suggests:
     BiocStyle,
     knitr,
     rmarkdown
-biocViews: Software, ExperimentData, DataImport
+biocViews: ExperimentData,RepositoryData
 NeedsCompilation: no
