@@ -1,7 +1,7 @@
 Package: RGMQLlib
 Type: Package
 Title: RGMQLlib, java libraries to run GMQL scala API
-Version: 0.99.3
+Version: 0.99.4
 Author: Simone Pallotta, Marco Masseroli
 Maintainer: Simone Pallotta <simonepallotta@hotmail.com>
 Description: A package that contains scala libraries to call GMQL from R 
@@ -19,5 +19,5 @@ Suggests:
     BiocStyle,
     knitr,
     rmarkdown
-biocViews: ExperimentData, DataImport
+biocViews: Software, ExperimentData, DataImport
 NeedsCompilation: no
