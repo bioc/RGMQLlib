@@ -7,8 +7,6 @@ vignette: >
     %\VignetteIndexEntry{RGMQLlib: scala Libraries to support GMQL}
     %\VignetteEngine{knitr::rmarkdown}
     %\VignetteEncoding{UTF-8}
-    %\VignettePackage{RGMQLlib}
-    %\VignetteDepends{RGMQLlib}
 ---
 
 # Introduction
