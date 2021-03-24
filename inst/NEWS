@@ -1,0 +1,19 @@
+CHANGES IN VERSION 1.11.1
+-------------------------
+
+NEW FEATURES
+
+    o Update GMQL API
+
+SIGNIFICANT USER-VISIBLE CHANGES
+
+    o None
+
+DEPRECATED AND DEFUNCT
+
+    o Removed function storing the remote credential
+    
+BUG FIXES
+
+    o fixed the remote processing
+    
