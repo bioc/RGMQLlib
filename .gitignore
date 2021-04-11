@@ -7,3 +7,5 @@
 .RData
 .*.zip
 *.Rproj
+*.idea
+*.zip
